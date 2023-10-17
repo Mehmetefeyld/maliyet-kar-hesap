@@ -1,0 +1,8 @@
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\bin\Debug\sınav 2 soru 2.exe.config
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\bin\Debug\sınav 2 soru 2.exe
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\bin\Debug\sınav 2 soru 2.pdb
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\obj\Debug\sınav 2 soru 2.csproj.AssemblyReference.cache
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\obj\Debug\sınav 2 soru 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\obj\Debug\sınav 2 soru 2.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\obj\Debug\sınav 2 soru 2.exe
+C:\Users\MEHMET EFE\source\repos\sınav 2 soru 2\sınav 2 soru 2\obj\Debug\sınav 2 soru 2.pdb
